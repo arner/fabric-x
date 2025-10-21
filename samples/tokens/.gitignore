@@ -3,6 +3,7 @@ keys/
 data/
 **/namespace/*.json
 fabric-samples/
+install-fabric.sh
 
 out/
 
